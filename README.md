@@ -1,6 +1,6 @@
-# food
+# Application which displays recipes for various dishes
 
-A new Flutter project.
+Application which lets you brouse through different dishes and can help you to favourite/bookmark dishes that you plan to make  
 
 ## Getting Started
 
